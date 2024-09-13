@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Bishoi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Full Stack Deveopment And Gen AI**
 
 - 👨‍💻 All of my projects are available at [https://ashutosh3699.github.io/portfolio/](https://ashutosh3699.github.io/portfolio/)
 
